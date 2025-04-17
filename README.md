@@ -1,1 +1,1 @@
-# Pomodoro
+# Pomodoro Python GUI
